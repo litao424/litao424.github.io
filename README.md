@@ -1,5 +1,6 @@
 ---
-permalink: /README.html
+permalink: /
+topic: Hello World
 ---
 
 # litao424
