@@ -1,5 +1,6 @@
 ---
+permalink: /index.html
 title: Hellop World
 ---
 
-# litao424
+welcome to my site. :smile
