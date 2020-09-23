@@ -1,3 +1,4 @@
 # theme: jekyll-theme-cayman
-remote_theme: piharpi/jekyll-klise
-#remote_theme: rundocs/jekyll-rtd-theme
+# remote_theme: piharpi/jekyll-klise
+# remote_theme: rundocs/jekyll-rtd-theme
+remote_theme: poole/hyde
