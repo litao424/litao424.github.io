@@ -3,4 +3,4 @@ permalink: /index.html
 title: Hellop World
 ---
 
-welcome to my site. :smile
+welcome to my home page. :smile:
