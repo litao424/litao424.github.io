@@ -1,6 +1,6 @@
 ---
 permalink: /index.html
-title: Hellop World
+title: Hello World
 ---
 
 welcome to my home page. :smile:
