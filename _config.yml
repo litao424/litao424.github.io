@@ -1,3 +1,5 @@
-theme: jekyll-theme-slate
+title: Litao424
+# theme: jekyll-theme-slate
 # remote_theme: piharpi/jekyll-klise  ## beautiful but wasted.
 # remote_theme: sharadcodes/jekyll-theme-dark-reader
+remote_theme: poole/lanyon
