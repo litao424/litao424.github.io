@@ -1,6 +1,7 @@
 ---
 permalink: /index.html
-title: Hello World
+layout: page
+title: Home Page
 ---
 
 welcome to my home page. :smile:
