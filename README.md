@@ -1,7 +1,7 @@
 ---
 permalink: /index.html
 layout: page
-title: Home Page
+title: Hello Strangers
 ---
 
-welcome to my home page. :smile:
+A painting is more than the sum of its parts. 😆
