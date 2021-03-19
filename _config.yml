@@ -3,3 +3,5 @@ title: Litao424
 # remote_theme: piharpi/jekyll-klise  ## beautiful but wasted.
 # remote_theme: sharadcodes/jekyll-theme-dark-reader
 remote_theme: poole/lanyon
+
+theme: jekyll-theme-cayman
